@@ -9,7 +9,7 @@ int main()
 	cvtColor(img, img, CV_BGR2GRAY);
 	imshow("image",img);
 
-	cv::waitKey();
+	cv::waitKey(10);
 
 	return 0;
 }
