@@ -5,6 +5,6 @@ using namespace std;
 using namespace cv;
 int main()
 {
-
+	cvhhdfgs;
 	return 0;
 }
